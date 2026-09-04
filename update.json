@@ -1,7 +1,7 @@
 {
   "versionName": "1.0.1",
   "versionCode": 3,
-  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/latest/download/DziennikRodzica.apk",
+  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.0.1/DziennikRodzica.apk"
   "sha256": "8dc2017c7ce76f33e002f262303c00d478329bc0a94632054997d0f5c7e12d27",
   "mandatory": false,
   "notes": "Pierwsza wersja z systemem automatycznych aktualizacji."
