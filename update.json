@@ -1,8 +1,8 @@
 {
-  "versionName": "1.1.1",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.1.1/DziennikRodzica.apk",
-  "sha256": "0046aa51127979c62129b6ae84f307d2be7ca0ee56167feae65707b2b8ad7761",
+  "versionName": "1.2.1",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.2.1/DziennikRodzica.apk",
+  "sha256": "6d28f54c52791a65429756869af1b9bc7b40be084e50e189d064a471792a2677",
   "mandatory": false,
   "notes": "Poprawione centrum powiadomień."
 }
