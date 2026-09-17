@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.1",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.4.1/DziennikRodzica.apk",
-  "sha256": "7ec3fd21a4cc0e66c6d0646654414c762a577e9ef9e39c324c5866e4b7f4c44c",
+  "versionName": "1.5.1",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.5.1/DziennikRodzica.apk",
+  "sha256": "88fdd0064c0dda5591ac58714a780fb203f5aa334f42fc7cfb4e2486d372520a",
   "mandatory": true,
-  "notes": "Zmieniony został system wiadomości na nowe API."
+  "notes": "Dodano obsługę ocen opisowych i szczegóły ocen."
 }
