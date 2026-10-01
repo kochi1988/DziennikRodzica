@@ -1,8 +1,8 @@
 {
-  "versionName": "1.6.1",
-  "versionCode": 16,
-  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.6.1/DziennikRodzica.apk",
-  "sha256": "f7ff1e35a54bc78f7ef9eaaa0c5666e4853d0f2f3a979d1edbfd9565c3adcb65",
+  "versionName": "1.7.0",
+  "versionCode": 17,
+  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.7.0/DziennikRodzica.apk",
+  "sha256": "dd8c1958acf4317d7af48f49ca0bf0cddbc9861ef3862970b755bd25405022d6",
   "mandatory": true,
-  "notes": "Poprawiono parser komentarzy do ocen."
+  "notes": "Poprawiona wersja aktualnych nieprzeczytanych informacji."
 }
