@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.0",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.8.0/DziennikRodzica.apk",
-  "sha256": "6808c52afecd9877149cad8fdf0cfe1c43efd4772a76bde7b00023c57d3ce8d7",
+  "versionName": "1.9.0",
+  "versionCode": 19,
+  "apkUrl": "https://github.com/kochi1988/DziennikRodzica/releases/download/v1.9.0/DziennikRodzica.apk",
+  "sha256": "1d6f71c4e2eb4d50dec5c92b710c75a2416c61c717000ca6bdc14a89b92c54db",
   "mandatory": true,
-  "notes": "Dodana została obsługa zadań domowych."
+  "notes": "Zmieniony został sposób wyświetlania ocen."
 }
